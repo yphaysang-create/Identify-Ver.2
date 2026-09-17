@@ -1,0 +1,10 @@
+{
+  "name": "NUH Patient ID Safety",
+  "description": "Educational platform and behavior assessment for patient identification protocols at Naresuan University Hospital.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
